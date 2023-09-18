@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695045825 source:c:\users\shahd mohammed\desktop\cpp\task3\main.cpp
+	<iostream>
+	<string>
+	<thread>
+	<chrono>
+
